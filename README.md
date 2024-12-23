@@ -6,7 +6,7 @@
 
 Wegocup AI is an innovative, user-friendly AI video maker designed to simplify the process of creating professional-quality videos. By utilizing cutting-edge artificial intelligence, Wegocup AI allows users of all experience levels to easily generate high-quality videos for marketing, social media, presentations, and personal projects. Whether you're a novice or a seasoned creator, Wegocup AI makes video creation faster and more efficient.
 
-
+![wegocup ai 3 download free](https://github.com/user-attachments/assets/a934a5de-7943-4f6e-b1e0-168f2b54aef7)
 
 ## Key Features of Wegocup AI
 ### AI-Powered Video Generation
@@ -18,7 +18,7 @@ Designed for ease of use, Wegocup AI’s intuitive interface allows users to cre
 ### Customization Options
 Wegocup AI offers various templates, text animations, and audio tracks, allowing users to fully customize their videos. You can choose styles, fonts, and transitions to match your brand or personal preferences.
 
-### Seamless Integration
+## Seamless Integration
 Wegocup AI integrates smoothly with various platforms, ensuring your videos can be easily shared or uploaded to social media, websites, or presentations.
 
 ### How to Download Wegocup AI 01 APK
